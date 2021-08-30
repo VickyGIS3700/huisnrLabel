@@ -1,14 +1,14 @@
 # huisnrLabel
  Huisnummer suit Crab uitlijnen ten op zichten van de straatkant van het gebouw.
 
-Vraag: Hoe kan ik de huisnummer mooi uitlijnen?
+Vraag:<br> Hoe kan ik de huisnummer mooi uitlijnen?
 
-Input:
-Start met de lagen
-Gebouwen (uit GRB – Gbg)
-Straten (uit GRB – Wvb)
-Huisnummers (CrabAdres)
+Input:<br>
+Start met de lagen<br>
+Gebouwen (uit GRB – Gbg)<br>
+Straten (uit GRB – Wvb)<br>
+Huisnummers (CrabAdres)<br>
 
 Stappen:
-Zorg dat alle lagen een ruimtelijke index hebben!
+Zorg dat alle lagen een ruimtelijke index hebben!<br>
 Laat het model lopen.
