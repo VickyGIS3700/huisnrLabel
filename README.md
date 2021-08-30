@@ -1,5 +1,5 @@
 # huisnrLabel
- Huisnummer suit Crab uitlijnen ten op zichten van de straatkant van het gebouw.
+ Huisnummers uit Crab uitlijnen ten op zichten van de straatkant van het gebouw.
 
 Vraag:<br> Hoe kan ik de huisnummer mooi uitlijnen?
 
